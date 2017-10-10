@@ -34,7 +34,9 @@ function cipher(string,code){
 		
 		//Devuelve el valor de la nueva cadena cifrada
 return finalStringOne;
+alert(finalStringOne);
 }
+
 
 //Invoca la función, llama a los parametros asignados
 cipher(textOne,33);
